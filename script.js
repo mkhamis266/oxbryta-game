@@ -1,8 +1,16 @@
 const target = 30;
 let clickedElements = [];
 
-document.addEventListener("dblclick", function (eInfo) {
-  eInfo.preventDefault();
+document.addEventListener("DOMContentLoaded", () => {
+  document.addEventListener("dblclick", (e) => {
+    e.preventDefault();
+  });
+  document.addEventListener("contextmenu", function (e) {
+    e.preventDefault();
+  });
+  // document.querySelector("form").addEventListener("touchstart", function (e) {
+  //   e.preventDefault();
+  // });
 });
 
 const popupElement = document.querySelector(".win-popup");
