@@ -1,6 +1,10 @@
 const target = 30;
 let clickedElements = [];
 
+document.addEventListener("click", function (eInfo) {
+  eInfo.preventDefault();
+});
+
 const popupElement = document.querySelector(".win-popup");
 const gameOverElement = document.querySelector(".game-over");
 const closePopupButton = document.querySelector(".win-popup .game-nav-button");
