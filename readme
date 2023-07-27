@@ -1,0 +1,15 @@
+1- to change target 
+  - change target value in script.js
+  - change .sum:after content property
+  - change $amountOfVirus in scss file with value more than the target 
+  considering the number of the obstacles
+
+2- to change the time to 40s for example
+  - change .count-down .count animation-duration ex: 40s
+  - change .count-down .count .after animation-iteration-count ex: 4
+  - change .timer:before animation duration ex: 40s
+  - change @keyframes beforeCountDown depend on iterations 4
+
+## Any image is background you can change iy form it's class
+## Currently the eye and hair animation is commented -not working- 
+## if you want add more obstacles add class obstacle to .corona-location .body element and remove the radio input
