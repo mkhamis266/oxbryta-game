@@ -388,7 +388,7 @@ body {
 }
 @for $i from 1 through $amountOfVirus {
   .corona-virus-#{$i}-location {
-    animation: coronaLocation#{$i} 10s linear $i * 960ms;
+    animation: coronaLocation#{$i} 30s linear $i * 960ms;
     [class*="eye"] {
       &::after {
         animation-delay: random(4000) + ms;

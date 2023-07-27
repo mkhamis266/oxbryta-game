@@ -383,1218 +383,1218 @@ body {
 }
 
 .corona-virus-1-location {
-  animation: coronaLocation1 10s linear 960ms;
+  animation: coronaLocation1 30s linear 960ms;
 }
 .corona-virus-1-location [class*=eye]::after {
-  animation-delay: 925ms;
+  animation-delay: 2294ms;
 }
 
 @keyframes coronaLocation1 {
   0% {
-    transform: translateX(-10vw) translateY(70vh) scale(0.4) rotate(-18deg);
+    transform: translateX(-10vw) translateY(30vh) scale(0.5) rotate(5deg);
   }
   20% {
-    transform: translateX(20vw) translateY(28vh) scale(0.4) rotate(28deg);
+    transform: translateX(20vw) translateY(19vh) scale(0.7) rotate(-35deg);
   }
   40% {
-    transform: translateX(40vw) translateY(31vh) scale(0.7) rotate(-16deg);
+    transform: translateX(40vw) translateY(18vh) scale(0.5) rotate(12deg);
   }
   60% {
-    transform: translateX(60vw) translateY(23vh) scale(0.8) rotate(17deg);
+    transform: translateX(60vw) translateY(7vh) scale(0.5) rotate(-22deg);
   }
   80% {
-    transform: translateX(80vw) translateY(5vh) scale(0.5) rotate(-16deg);
+    transform: translateX(80vw) translateY(73vh) scale(0.5) rotate(-3deg);
   }
   100% {
-    transform: translateX(110vw) translateY(6vh) scale(0.4) rotate(-17deg);
+    transform: translateX(110vw) translateY(59vh) scale(0.4) rotate(-17deg);
   }
 }
 .corona-virus-2-location {
-  animation: coronaLocation2 10s linear 1920ms;
+  animation: coronaLocation2 30s linear 1920ms;
 }
 .corona-virus-2-location [class*=eye]::after {
-  animation-delay: 685ms;
+  animation-delay: 1217ms;
 }
 
 @keyframes coronaLocation2 {
   0% {
-    transform: translateX(-10vw) translateY(2vh) scale(0.6) rotate(-11deg);
+    transform: translateX(-10vw) translateY(17vh) scale(0.5) rotate(-25deg);
   }
   20% {
-    transform: translateX(20vw) translateY(52vh) scale(0.7) rotate(9deg);
+    transform: translateX(20vw) translateY(46vh) scale(0.8) rotate(27deg);
   }
   40% {
-    transform: translateX(40vw) translateY(22vh) scale(0.8) rotate(1deg);
+    transform: translateX(40vw) translateY(66vh) scale(0.7) rotate(13deg);
   }
   60% {
-    transform: translateX(60vw) translateY(40vh) scale(0.5) rotate(30deg);
+    transform: translateX(60vw) translateY(75vh) scale(0.6) rotate(44deg);
   }
   80% {
-    transform: translateX(80vw) translateY(49vh) scale(0.7) rotate(-20deg);
+    transform: translateX(80vw) translateY(39vh) scale(0.8) rotate(-44deg);
   }
   100% {
-    transform: translateX(110vw) translateY(16vh) scale(0.5) rotate(-31deg);
+    transform: translateX(110vw) translateY(14vh) scale(0.8) rotate(-40deg);
   }
 }
 .corona-virus-3-location {
-  animation: coronaLocation3 10s linear 2880ms;
+  animation: coronaLocation3 30s linear 2880ms;
 }
 .corona-virus-3-location [class*=eye]::after {
-  animation-delay: 3303ms;
+  animation-delay: 2265ms;
 }
 
 @keyframes coronaLocation3 {
   0% {
-    transform: translateX(-10vw) translateY(15vh) scale(0.7) rotate(-16deg);
+    transform: translateX(-10vw) translateY(4vh) scale(0.8) rotate(29deg);
   }
   20% {
-    transform: translateX(20vw) translateY(48vh) scale(0.5) rotate(0deg);
+    transform: translateX(20vw) translateY(39vh) scale(0.8) rotate(-10deg);
   }
   40% {
-    transform: translateX(40vw) translateY(70vh) scale(0.6) rotate(-34deg);
+    transform: translateX(40vw) translateY(43vh) scale(0.8) rotate(-35deg);
   }
   60% {
-    transform: translateX(60vw) translateY(74vh) scale(0.5) rotate(36deg);
+    transform: translateX(60vw) translateY(58vh) scale(0.8) rotate(15deg);
   }
   80% {
-    transform: translateX(80vw) translateY(65vh) scale(0.5) rotate(6deg);
+    transform: translateX(80vw) translateY(64vh) scale(0.4) rotate(-10deg);
   }
   100% {
-    transform: translateX(110vw) translateY(76vh) scale(0.6) rotate(43deg);
+    transform: translateX(110vw) translateY(34vh) scale(0.8) rotate(39deg);
   }
 }
 .corona-virus-4-location {
-  animation: coronaLocation4 10s linear 3840ms;
+  animation: coronaLocation4 30s linear 3840ms;
 }
 .corona-virus-4-location [class*=eye]::after {
-  animation-delay: 357ms;
+  animation-delay: 3587ms;
 }
 
 @keyframes coronaLocation4 {
   0% {
-    transform: translateX(-10vw) translateY(27vh) scale(0.4) rotate(-16deg);
+    transform: translateX(-10vw) translateY(17vh) scale(0.6) rotate(-8deg);
   }
   20% {
-    transform: translateX(20vw) translateY(41vh) scale(0.8) rotate(-13deg);
+    transform: translateX(20vw) translateY(64vh) scale(0.5) rotate(-29deg);
   }
   40% {
-    transform: translateX(40vw) translateY(62vh) scale(0.8) rotate(-7deg);
+    transform: translateX(40vw) translateY(46vh) scale(0.5) rotate(10deg);
   }
   60% {
-    transform: translateX(60vw) translateY(28vh) scale(0.6) rotate(-38deg);
+    transform: translateX(60vw) translateY(67vh) scale(0.5) rotate(-12deg);
   }
   80% {
-    transform: translateX(80vw) translateY(76vh) scale(0.5) rotate(31deg);
+    transform: translateX(80vw) translateY(28vh) scale(0.4) rotate(22deg);
   }
   100% {
-    transform: translateX(110vw) translateY(58vh) scale(0.6) rotate(-3deg);
+    transform: translateX(110vw) translateY(43vh) scale(0.8) rotate(9deg);
   }
 }
 .corona-virus-5-location {
-  animation: coronaLocation5 10s linear 4800ms;
+  animation: coronaLocation5 30s linear 4800ms;
 }
 .corona-virus-5-location [class*=eye]::after {
-  animation-delay: 293ms;
+  animation-delay: 3398ms;
 }
 
 @keyframes coronaLocation5 {
   0% {
-    transform: translateX(-10vw) translateY(32vh) scale(0.7) rotate(-21deg);
+    transform: translateX(-10vw) translateY(10vh) scale(0.4) rotate(33deg);
   }
   20% {
-    transform: translateX(20vw) translateY(72vh) scale(0.7) rotate(32deg);
+    transform: translateX(20vw) translateY(76vh) scale(0.5) rotate(-36deg);
   }
   40% {
-    transform: translateX(40vw) translateY(52vh) scale(0.7) rotate(16deg);
+    transform: translateX(40vw) translateY(41vh) scale(0.5) rotate(-1deg);
   }
   60% {
-    transform: translateX(60vw) translateY(36vh) scale(0.7) rotate(3deg);
+    transform: translateX(60vw) translateY(57vh) scale(0.6) rotate(-39deg);
   }
   80% {
-    transform: translateX(80vw) translateY(33vh) scale(0.7) rotate(22deg);
+    transform: translateX(80vw) translateY(16vh) scale(0.8) rotate(44deg);
   }
   100% {
-    transform: translateX(110vw) translateY(7vh) scale(0.6) rotate(6deg);
+    transform: translateX(110vw) translateY(24vh) scale(0.6) rotate(-23deg);
   }
 }
 .corona-virus-6-location {
-  animation: coronaLocation6 10s linear 5760ms;
+  animation: coronaLocation6 30s linear 5760ms;
 }
 .corona-virus-6-location [class*=eye]::after {
-  animation-delay: 1216ms;
+  animation-delay: 3180ms;
 }
 
 @keyframes coronaLocation6 {
   0% {
-    transform: translateX(-10vw) translateY(19vh) scale(0.4) rotate(-30deg);
+    transform: translateX(-10vw) translateY(61vh) scale(0.5) rotate(33deg);
   }
   20% {
-    transform: translateX(20vw) translateY(8vh) scale(0.6) rotate(12deg);
+    transform: translateX(20vw) translateY(58vh) scale(0.8) rotate(-31deg);
   }
   40% {
-    transform: translateX(40vw) translateY(15vh) scale(0.5) rotate(-11deg);
+    transform: translateX(40vw) translateY(51vh) scale(0.5) rotate(-42deg);
   }
   60% {
-    transform: translateX(60vw) translateY(54vh) scale(0.5) rotate(12deg);
+    transform: translateX(60vw) translateY(6vh) scale(0.8) rotate(12deg);
   }
   80% {
-    transform: translateX(80vw) translateY(6vh) scale(0.5) rotate(-27deg);
+    transform: translateX(80vw) translateY(67vh) scale(0.4) rotate(-6deg);
   }
   100% {
-    transform: translateX(110vw) translateY(46vh) scale(0.5) rotate(23deg);
+    transform: translateX(110vw) translateY(19vh) scale(0.8) rotate(32deg);
   }
 }
 .corona-virus-7-location {
-  animation: coronaLocation7 10s linear 6720ms;
+  animation: coronaLocation7 30s linear 6720ms;
 }
 .corona-virus-7-location [class*=eye]::after {
-  animation-delay: 296ms;
+  animation-delay: 1489ms;
 }
 
 @keyframes coronaLocation7 {
   0% {
-    transform: translateX(-10vw) translateY(3vh) scale(0.6) rotate(3deg);
+    transform: translateX(-10vw) translateY(65vh) scale(0.5) rotate(35deg);
   }
   20% {
-    transform: translateX(20vw) translateY(49vh) scale(0.4) rotate(10deg);
+    transform: translateX(20vw) translateY(60vh) scale(0.6) rotate(-34deg);
   }
   40% {
-    transform: translateX(40vw) translateY(50vh) scale(0.4) rotate(22deg);
+    transform: translateX(40vw) translateY(57vh) scale(0.5) rotate(-10deg);
   }
   60% {
-    transform: translateX(60vw) translateY(23vh) scale(0.4) rotate(-43deg);
+    transform: translateX(60vw) translateY(33vh) scale(0.6) rotate(-1deg);
   }
   80% {
-    transform: translateX(80vw) translateY(10vh) scale(0.5) rotate(43deg);
+    transform: translateX(80vw) translateY(35vh) scale(0.6) rotate(18deg);
   }
   100% {
-    transform: translateX(110vw) translateY(78vh) scale(0.4) rotate(12deg);
+    transform: translateX(110vw) translateY(36vh) scale(0.8) rotate(36deg);
   }
 }
 .corona-virus-8-location {
-  animation: coronaLocation8 10s linear 7680ms;
+  animation: coronaLocation8 30s linear 7680ms;
 }
 .corona-virus-8-location [class*=eye]::after {
-  animation-delay: 31ms;
+  animation-delay: 1897ms;
 }
 
 @keyframes coronaLocation8 {
   0% {
-    transform: translateX(-10vw) translateY(27vh) scale(0.7) rotate(39deg);
+    transform: translateX(-10vw) translateY(35vh) scale(0.8) rotate(8deg);
   }
   20% {
-    transform: translateX(20vw) translateY(75vh) scale(0.6) rotate(-41deg);
+    transform: translateX(20vw) translateY(43vh) scale(0.8) rotate(30deg);
   }
   40% {
-    transform: translateX(40vw) translateY(23vh) scale(0.8) rotate(-9deg);
+    transform: translateX(40vw) translateY(54vh) scale(0.7) rotate(20deg);
   }
   60% {
-    transform: translateX(60vw) translateY(57vh) scale(0.8) rotate(15deg);
+    transform: translateX(60vw) translateY(59vh) scale(0.6) rotate(40deg);
   }
   80% {
-    transform: translateX(80vw) translateY(64vh) scale(0.7) rotate(34deg);
+    transform: translateX(80vw) translateY(18vh) scale(0.7) rotate(5deg);
   }
   100% {
-    transform: translateX(110vw) translateY(8vh) scale(0.8) rotate(45deg);
+    transform: translateX(110vw) translateY(18vh) scale(0.5) rotate(12deg);
   }
 }
 .corona-virus-9-location {
-  animation: coronaLocation9 10s linear 8640ms;
+  animation: coronaLocation9 30s linear 8640ms;
 }
 .corona-virus-9-location [class*=eye]::after {
-  animation-delay: 184ms;
+  animation-delay: 215ms;
 }
 
 @keyframes coronaLocation9 {
   0% {
-    transform: translateX(-10vw) translateY(34vh) scale(0.4) rotate(34deg);
+    transform: translateX(-10vw) translateY(20vh) scale(0.8) rotate(30deg);
   }
   20% {
-    transform: translateX(20vw) translateY(69vh) scale(0.8) rotate(-18deg);
+    transform: translateX(20vw) translateY(15vh) scale(0.8) rotate(-37deg);
   }
   40% {
-    transform: translateX(40vw) translateY(68vh) scale(0.6) rotate(28deg);
+    transform: translateX(40vw) translateY(54vh) scale(0.8) rotate(-18deg);
   }
   60% {
-    transform: translateX(60vw) translateY(65vh) scale(0.4) rotate(32deg);
+    transform: translateX(60vw) translateY(74vh) scale(0.5) rotate(0deg);
   }
   80% {
-    transform: translateX(80vw) translateY(19vh) scale(0.6) rotate(44deg);
+    transform: translateX(80vw) translateY(25vh) scale(0.7) rotate(22deg);
   }
   100% {
-    transform: translateX(110vw) translateY(33vh) scale(0.5) rotate(28deg);
+    transform: translateX(110vw) translateY(33vh) scale(0.7) rotate(-34deg);
   }
 }
 .corona-virus-10-location {
-  animation: coronaLocation10 10s linear 9600ms;
+  animation: coronaLocation10 30s linear 9600ms;
 }
 .corona-virus-10-location [class*=eye]::after {
-  animation-delay: 1742ms;
+  animation-delay: 3008ms;
 }
 
 @keyframes coronaLocation10 {
   0% {
-    transform: translateX(-10vw) translateY(51vh) scale(0.8) rotate(1deg);
+    transform: translateX(-10vw) translateY(21vh) scale(0.6) rotate(21deg);
   }
   20% {
-    transform: translateX(20vw) translateY(42vh) scale(0.4) rotate(36deg);
+    transform: translateX(20vw) translateY(75vh) scale(0.5) rotate(-41deg);
   }
   40% {
-    transform: translateX(40vw) translateY(14vh) scale(0.5) rotate(-32deg);
+    transform: translateX(40vw) translateY(76vh) scale(0.5) rotate(7deg);
   }
   60% {
-    transform: translateX(60vw) translateY(27vh) scale(0.6) rotate(-17deg);
+    transform: translateX(60vw) translateY(30vh) scale(0.5) rotate(42deg);
   }
   80% {
-    transform: translateX(80vw) translateY(28vh) scale(0.6) rotate(-33deg);
+    transform: translateX(80vw) translateY(75vh) scale(0.4) rotate(42deg);
   }
   100% {
-    transform: translateX(110vw) translateY(52vh) scale(0.7) rotate(-18deg);
+    transform: translateX(110vw) translateY(46vh) scale(0.7) rotate(-18deg);
   }
 }
 .corona-virus-11-location {
-  animation: coronaLocation11 10s linear 10560ms;
+  animation: coronaLocation11 30s linear 10560ms;
 }
 .corona-virus-11-location [class*=eye]::after {
-  animation-delay: 1697ms;
+  animation-delay: 271ms;
 }
 
 @keyframes coronaLocation11 {
   0% {
-    transform: translateX(-10vw) translateY(53vh) scale(0.6) rotate(-37deg);
+    transform: translateX(-10vw) translateY(62vh) scale(0.8) rotate(-26deg);
   }
   20% {
-    transform: translateX(20vw) translateY(43vh) scale(0.5) rotate(38deg);
+    transform: translateX(20vw) translateY(13vh) scale(0.6) rotate(44deg);
   }
   40% {
-    transform: translateX(40vw) translateY(50vh) scale(0.7) rotate(-27deg);
+    transform: translateX(40vw) translateY(72vh) scale(0.4) rotate(-34deg);
   }
   60% {
-    transform: translateX(60vw) translateY(19vh) scale(0.4) rotate(-39deg);
+    transform: translateX(60vw) translateY(53vh) scale(0.6) rotate(29deg);
   }
   80% {
-    transform: translateX(80vw) translateY(49vh) scale(0.8) rotate(-21deg);
+    transform: translateX(80vw) translateY(27vh) scale(0.5) rotate(14deg);
   }
   100% {
-    transform: translateX(110vw) translateY(37vh) scale(0.6) rotate(-31deg);
+    transform: translateX(110vw) translateY(33vh) scale(0.6) rotate(-40deg);
   }
 }
 .corona-virus-12-location {
-  animation: coronaLocation12 10s linear 11520ms;
+  animation: coronaLocation12 30s linear 11520ms;
 }
 .corona-virus-12-location [class*=eye]::after {
-  animation-delay: 648ms;
+  animation-delay: 3311ms;
 }
 
 @keyframes coronaLocation12 {
   0% {
-    transform: translateX(-10vw) translateY(7vh) scale(0.5) rotate(23deg);
+    transform: translateX(-10vw) translateY(19vh) scale(0.5) rotate(-42deg);
   }
   20% {
-    transform: translateX(20vw) translateY(39vh) scale(0.8) rotate(22deg);
+    transform: translateX(20vw) translateY(29vh) scale(0.6) rotate(-10deg);
   }
   40% {
-    transform: translateX(40vw) translateY(76vh) scale(0.8) rotate(32deg);
+    transform: translateX(40vw) translateY(50vh) scale(0.7) rotate(27deg);
   }
   60% {
-    transform: translateX(60vw) translateY(16vh) scale(0.4) rotate(39deg);
+    transform: translateX(60vw) translateY(2vh) scale(0.4) rotate(-32deg);
   }
   80% {
-    transform: translateX(80vw) translateY(53vh) scale(0.8) rotate(-40deg);
+    transform: translateX(80vw) translateY(36vh) scale(0.4) rotate(23deg);
   }
   100% {
-    transform: translateX(110vw) translateY(14vh) scale(0.8) rotate(27deg);
+    transform: translateX(110vw) translateY(34vh) scale(0.5) rotate(34deg);
   }
 }
 .corona-virus-13-location {
-  animation: coronaLocation13 10s linear 12480ms;
+  animation: coronaLocation13 30s linear 12480ms;
 }
 .corona-virus-13-location [class*=eye]::after {
-  animation-delay: 286ms;
+  animation-delay: 2475ms;
 }
 
 @keyframes coronaLocation13 {
   0% {
-    transform: translateX(-10vw) translateY(17vh) scale(0.6) rotate(21deg);
+    transform: translateX(-10vw) translateY(54vh) scale(0.4) rotate(34deg);
   }
   20% {
-    transform: translateX(20vw) translateY(59vh) scale(0.4) rotate(-34deg);
+    transform: translateX(20vw) translateY(69vh) scale(0.8) rotate(32deg);
   }
   40% {
-    transform: translateX(40vw) translateY(42vh) scale(0.7) rotate(-14deg);
+    transform: translateX(40vw) translateY(80vh) scale(0.8) rotate(34deg);
   }
   60% {
-    transform: translateX(60vw) translateY(57vh) scale(0.7) rotate(-1deg);
+    transform: translateX(60vw) translateY(10vh) scale(0.4) rotate(1deg);
   }
   80% {
-    transform: translateX(80vw) translateY(70vh) scale(0.5) rotate(-5deg);
+    transform: translateX(80vw) translateY(47vh) scale(0.7) rotate(-22deg);
   }
   100% {
-    transform: translateX(110vw) translateY(15vh) scale(0.5) rotate(-14deg);
+    transform: translateX(110vw) translateY(73vh) scale(0.7) rotate(1deg);
   }
 }
 .corona-virus-14-location {
-  animation: coronaLocation14 10s linear 13440ms;
+  animation: coronaLocation14 30s linear 13440ms;
 }
 .corona-virus-14-location [class*=eye]::after {
-  animation-delay: 1992ms;
+  animation-delay: 1839ms;
 }
 
 @keyframes coronaLocation14 {
   0% {
-    transform: translateX(-10vw) translateY(49vh) scale(0.4) rotate(-39deg);
+    transform: translateX(-10vw) translateY(41vh) scale(0.6) rotate(27deg);
   }
   20% {
-    transform: translateX(20vw) translateY(78vh) scale(0.7) rotate(-12deg);
+    transform: translateX(20vw) translateY(27vh) scale(0.6) rotate(15deg);
   }
   40% {
-    transform: translateX(40vw) translateY(8vh) scale(0.7) rotate(18deg);
+    transform: translateX(40vw) translateY(14vh) scale(0.6) rotate(34deg);
   }
   60% {
-    transform: translateX(60vw) translateY(55vh) scale(0.8) rotate(36deg);
+    transform: translateX(60vw) translateY(63vh) scale(0.5) rotate(-21deg);
   }
   80% {
-    transform: translateX(80vw) translateY(57vh) scale(0.8) rotate(-39deg);
+    transform: translateX(80vw) translateY(57vh) scale(0.8) rotate(-26deg);
   }
   100% {
-    transform: translateX(110vw) translateY(55vh) scale(0.5) rotate(-1deg);
+    transform: translateX(110vw) translateY(72vh) scale(0.6) rotate(-20deg);
   }
 }
 .corona-virus-15-location {
-  animation: coronaLocation15 10s linear 14400ms;
+  animation: coronaLocation15 30s linear 14400ms;
 }
 .corona-virus-15-location [class*=eye]::after {
-  animation-delay: 2303ms;
+  animation-delay: 2049ms;
 }
 
 @keyframes coronaLocation15 {
   0% {
-    transform: translateX(-10vw) translateY(19vh) scale(0.4) rotate(-38deg);
+    transform: translateX(-10vw) translateY(32vh) scale(0.7) rotate(-15deg);
   }
   20% {
-    transform: translateX(20vw) translateY(56vh) scale(0.6) rotate(13deg);
+    transform: translateX(20vw) translateY(40vh) scale(0.7) rotate(24deg);
   }
   40% {
-    transform: translateX(40vw) translateY(9vh) scale(0.6) rotate(-12deg);
+    transform: translateX(40vw) translateY(70vh) scale(0.7) rotate(-11deg);
   }
   60% {
-    transform: translateX(60vw) translateY(17vh) scale(0.8) rotate(-10deg);
+    transform: translateX(60vw) translateY(56vh) scale(0.8) rotate(-38deg);
   }
   80% {
-    transform: translateX(80vw) translateY(13vh) scale(0.8) rotate(-32deg);
+    transform: translateX(80vw) translateY(24vh) scale(0.8) rotate(38deg);
   }
   100% {
-    transform: translateX(110vw) translateY(48vh) scale(0.5) rotate(-28deg);
+    transform: translateX(110vw) translateY(41vh) scale(0.8) rotate(37deg);
   }
 }
 .corona-virus-16-location {
-  animation: coronaLocation16 10s linear 15360ms;
+  animation: coronaLocation16 30s linear 15360ms;
 }
 .corona-virus-16-location [class*=eye]::after {
-  animation-delay: 2292ms;
+  animation-delay: 3249ms;
 }
 
 @keyframes coronaLocation16 {
   0% {
-    transform: translateX(-10vw) translateY(27vh) scale(0.5) rotate(-10deg);
+    transform: translateX(-10vw) translateY(31vh) scale(0.6) rotate(31deg);
   }
   20% {
-    transform: translateX(20vw) translateY(3vh) scale(0.5) rotate(-8deg);
+    transform: translateX(20vw) translateY(25vh) scale(0.7) rotate(25deg);
   }
   40% {
-    transform: translateX(40vw) translateY(79vh) scale(0.4) rotate(6deg);
+    transform: translateX(40vw) translateY(33vh) scale(0.6) rotate(-28deg);
   }
   60% {
-    transform: translateX(60vw) translateY(50vh) scale(0.8) rotate(-13deg);
+    transform: translateX(60vw) translateY(30vh) scale(0.7) rotate(21deg);
   }
   80% {
-    transform: translateX(80vw) translateY(78vh) scale(0.8) rotate(19deg);
+    transform: translateX(80vw) translateY(31vh) scale(0.7) rotate(-19deg);
   }
   100% {
-    transform: translateX(110vw) translateY(8vh) scale(0.6) rotate(-16deg);
+    transform: translateX(110vw) translateY(4vh) scale(0.6) rotate(11deg);
   }
 }
 .corona-virus-17-location {
-  animation: coronaLocation17 10s linear 16320ms;
+  animation: coronaLocation17 30s linear 16320ms;
 }
 .corona-virus-17-location [class*=eye]::after {
-  animation-delay: 1989ms;
+  animation-delay: 3163ms;
 }
 
 @keyframes coronaLocation17 {
   0% {
-    transform: translateX(-10vw) translateY(45vh) scale(0.4) rotate(39deg);
+    transform: translateX(-10vw) translateY(24vh) scale(0.5) rotate(-5deg);
   }
   20% {
-    transform: translateX(20vw) translateY(19vh) scale(0.6) rotate(26deg);
+    transform: translateX(20vw) translateY(33vh) scale(0.5) rotate(-20deg);
   }
   40% {
-    transform: translateX(40vw) translateY(80vh) scale(0.4) rotate(33deg);
+    transform: translateX(40vw) translateY(48vh) scale(0.7) rotate(33deg);
   }
   60% {
-    transform: translateX(60vw) translateY(67vh) scale(0.4) rotate(-9deg);
+    transform: translateX(60vw) translateY(77vh) scale(0.4) rotate(0deg);
   }
   80% {
-    transform: translateX(80vw) translateY(70vh) scale(0.4) rotate(-22deg);
+    transform: translateX(80vw) translateY(14vh) scale(0.5) rotate(35deg);
   }
   100% {
-    transform: translateX(110vw) translateY(55vh) scale(0.5) rotate(-19deg);
+    transform: translateX(110vw) translateY(13vh) scale(0.4) rotate(27deg);
   }
 }
 .corona-virus-18-location {
-  animation: coronaLocation18 10s linear 17280ms;
+  animation: coronaLocation18 30s linear 17280ms;
 }
 .corona-virus-18-location [class*=eye]::after {
-  animation-delay: 2378ms;
+  animation-delay: 153ms;
 }
 
 @keyframes coronaLocation18 {
   0% {
-    transform: translateX(-10vw) translateY(47vh) scale(0.4) rotate(11deg);
+    transform: translateX(-10vw) translateY(55vh) scale(0.4) rotate(37deg);
   }
   20% {
-    transform: translateX(20vw) translateY(44vh) scale(0.4) rotate(21deg);
+    transform: translateX(20vw) translateY(20vh) scale(0.8) rotate(8deg);
   }
   40% {
-    transform: translateX(40vw) translateY(64vh) scale(0.7) rotate(37deg);
+    transform: translateX(40vw) translateY(42vh) scale(0.7) rotate(41deg);
   }
   60% {
-    transform: translateX(60vw) translateY(54vh) scale(0.4) rotate(27deg);
+    transform: translateX(60vw) translateY(27vh) scale(0.8) rotate(15deg);
   }
   80% {
-    transform: translateX(80vw) translateY(79vh) scale(0.8) rotate(-12deg);
+    transform: translateX(80vw) translateY(4vh) scale(0.4) rotate(17deg);
   }
   100% {
-    transform: translateX(110vw) translateY(70vh) scale(0.5) rotate(43deg);
+    transform: translateX(110vw) translateY(77vh) scale(0.5) rotate(41deg);
   }
 }
 .corona-virus-19-location {
-  animation: coronaLocation19 10s linear 18240ms;
+  animation: coronaLocation19 30s linear 18240ms;
 }
 .corona-virus-19-location [class*=eye]::after {
-  animation-delay: 619ms;
+  animation-delay: 1993ms;
 }
 
 @keyframes coronaLocation19 {
   0% {
-    transform: translateX(-10vw) translateY(13vh) scale(0.5) rotate(-42deg);
+    transform: translateX(-10vw) translateY(72vh) scale(0.4) rotate(-23deg);
   }
   20% {
-    transform: translateX(20vw) translateY(5vh) scale(0.5) rotate(16deg);
+    transform: translateX(20vw) translateY(37vh) scale(0.4) rotate(-19deg);
   }
   40% {
-    transform: translateX(40vw) translateY(43vh) scale(0.8) rotate(-1deg);
+    transform: translateX(40vw) translateY(77vh) scale(0.8) rotate(-6deg);
   }
   60% {
-    transform: translateX(60vw) translateY(70vh) scale(0.7) rotate(20deg);
+    transform: translateX(60vw) translateY(7vh) scale(0.8) rotate(-20deg);
   }
   80% {
-    transform: translateX(80vw) translateY(57vh) scale(0.8) rotate(11deg);
+    transform: translateX(80vw) translateY(53vh) scale(0.8) rotate(3deg);
   }
   100% {
-    transform: translateX(110vw) translateY(40vh) scale(0.5) rotate(-9deg);
+    transform: translateX(110vw) translateY(22vh) scale(0.8) rotate(1deg);
   }
 }
 .corona-virus-20-location {
-  animation: coronaLocation20 10s linear 19200ms;
+  animation: coronaLocation20 30s linear 19200ms;
 }
 .corona-virus-20-location [class*=eye]::after {
-  animation-delay: 1268ms;
+  animation-delay: 3306ms;
 }
 
 @keyframes coronaLocation20 {
   0% {
-    transform: translateX(-10vw) translateY(17vh) scale(0.8) rotate(-10deg);
+    transform: translateX(-10vw) translateY(45vh) scale(0.4) rotate(19deg);
   }
   20% {
-    transform: translateX(20vw) translateY(60vh) scale(0.5) rotate(-28deg);
+    transform: translateX(20vw) translateY(23vh) scale(0.6) rotate(-35deg);
   }
   40% {
-    transform: translateX(40vw) translateY(66vh) scale(0.7) rotate(43deg);
+    transform: translateX(40vw) translateY(55vh) scale(0.6) rotate(-27deg);
   }
   60% {
-    transform: translateX(60vw) translateY(58vh) scale(0.6) rotate(27deg);
+    transform: translateX(60vw) translateY(68vh) scale(0.4) rotate(13deg);
   }
   80% {
-    transform: translateX(80vw) translateY(75vh) scale(0.6) rotate(15deg);
+    transform: translateX(80vw) translateY(47vh) scale(0.7) rotate(40deg);
   }
   100% {
-    transform: translateX(110vw) translateY(67vh) scale(0.6) rotate(-12deg);
+    transform: translateX(110vw) translateY(7vh) scale(0.8) rotate(-24deg);
   }
 }
 .corona-virus-21-location {
-  animation: coronaLocation21 10s linear 20160ms;
+  animation: coronaLocation21 30s linear 20160ms;
 }
 .corona-virus-21-location [class*=eye]::after {
-  animation-delay: 887ms;
+  animation-delay: 1896ms;
 }
 
 @keyframes coronaLocation21 {
   0% {
-    transform: translateX(-10vw) translateY(70vh) scale(0.8) rotate(-41deg);
+    transform: translateX(-10vw) translateY(17vh) scale(0.5) rotate(-20deg);
   }
   20% {
-    transform: translateX(20vw) translateY(7vh) scale(0.8) rotate(9deg);
+    transform: translateX(20vw) translateY(36vh) scale(0.4) rotate(-5deg);
   }
   40% {
-    transform: translateX(40vw) translateY(69vh) scale(0.8) rotate(-35deg);
+    transform: translateX(40vw) translateY(64vh) scale(0.5) rotate(22deg);
   }
   60% {
-    transform: translateX(60vw) translateY(46vh) scale(0.8) rotate(22deg);
+    transform: translateX(60vw) translateY(17vh) scale(0.7) rotate(1deg);
   }
   80% {
-    transform: translateX(80vw) translateY(54vh) scale(0.7) rotate(-27deg);
+    transform: translateX(80vw) translateY(20vh) scale(0.4) rotate(6deg);
   }
   100% {
-    transform: translateX(110vw) translateY(47vh) scale(0.7) rotate(-31deg);
+    transform: translateX(110vw) translateY(43vh) scale(0.4) rotate(36deg);
   }
 }
 .corona-virus-22-location {
-  animation: coronaLocation22 10s linear 21120ms;
+  animation: coronaLocation22 30s linear 21120ms;
 }
 .corona-virus-22-location [class*=eye]::after {
-  animation-delay: 1946ms;
+  animation-delay: 2696ms;
 }
 
 @keyframes coronaLocation22 {
   0% {
-    transform: translateX(-10vw) translateY(73vh) scale(0.7) rotate(-27deg);
+    transform: translateX(-10vw) translateY(47vh) scale(0.8) rotate(23deg);
   }
   20% {
-    transform: translateX(20vw) translateY(42vh) scale(0.6) rotate(25deg);
+    transform: translateX(20vw) translateY(18vh) scale(0.4) rotate(-32deg);
   }
   40% {
-    transform: translateX(40vw) translateY(9vh) scale(0.4) rotate(-36deg);
+    transform: translateX(40vw) translateY(65vh) scale(0.8) rotate(11deg);
   }
   60% {
-    transform: translateX(60vw) translateY(74vh) scale(0.5) rotate(8deg);
+    transform: translateX(60vw) translateY(55vh) scale(0.7) rotate(-9deg);
   }
   80% {
-    transform: translateX(80vw) translateY(62vh) scale(0.4) rotate(4deg);
+    transform: translateX(80vw) translateY(75vh) scale(0.5) rotate(-18deg);
   }
   100% {
-    transform: translateX(110vw) translateY(73vh) scale(0.6) rotate(8deg);
+    transform: translateX(110vw) translateY(57vh) scale(0.6) rotate(42deg);
   }
 }
 .corona-virus-23-location {
-  animation: coronaLocation23 10s linear 22080ms;
+  animation: coronaLocation23 30s linear 22080ms;
 }
 .corona-virus-23-location [class*=eye]::after {
-  animation-delay: 1403ms;
+  animation-delay: 421ms;
 }
 
 @keyframes coronaLocation23 {
   0% {
-    transform: translateX(-10vw) translateY(2vh) scale(0.5) rotate(40deg);
+    transform: translateX(-10vw) translateY(48vh) scale(0.7) rotate(28deg);
   }
   20% {
-    transform: translateX(20vw) translateY(31vh) scale(0.6) rotate(40deg);
+    transform: translateX(20vw) translateY(50vh) scale(0.5) rotate(34deg);
   }
   40% {
-    transform: translateX(40vw) translateY(45vh) scale(0.5) rotate(17deg);
+    transform: translateX(40vw) translateY(18vh) scale(0.6) rotate(-26deg);
   }
   60% {
-    transform: translateX(60vw) translateY(78vh) scale(0.6) rotate(-12deg);
+    transform: translateX(60vw) translateY(32vh) scale(0.7) rotate(33deg);
   }
   80% {
-    transform: translateX(80vw) translateY(34vh) scale(0.5) rotate(-7deg);
+    transform: translateX(80vw) translateY(22vh) scale(0.6) rotate(-36deg);
   }
   100% {
-    transform: translateX(110vw) translateY(51vh) scale(0.5) rotate(-12deg);
+    transform: translateX(110vw) translateY(63vh) scale(0.8) rotate(-11deg);
   }
 }
 .corona-virus-24-location {
-  animation: coronaLocation24 10s linear 23040ms;
+  animation: coronaLocation24 30s linear 23040ms;
 }
 .corona-virus-24-location [class*=eye]::after {
-  animation-delay: 1479ms;
+  animation-delay: 1410ms;
 }
 
 @keyframes coronaLocation24 {
   0% {
-    transform: translateX(-10vw) translateY(40vh) scale(0.4) rotate(-3deg);
+    transform: translateX(-10vw) translateY(4vh) scale(0.6) rotate(20deg);
   }
   20% {
-    transform: translateX(20vw) translateY(35vh) scale(0.8) rotate(37deg);
+    transform: translateX(20vw) translateY(38vh) scale(0.5) rotate(-33deg);
   }
   40% {
-    transform: translateX(40vw) translateY(44vh) scale(0.7) rotate(-10deg);
+    transform: translateX(40vw) translateY(8vh) scale(0.8) rotate(20deg);
   }
   60% {
-    transform: translateX(60vw) translateY(44vh) scale(0.5) rotate(-17deg);
+    transform: translateX(60vw) translateY(7vh) scale(0.6) rotate(12deg);
   }
   80% {
-    transform: translateX(80vw) translateY(3vh) scale(0.6) rotate(-44deg);
+    transform: translateX(80vw) translateY(45vh) scale(0.6) rotate(-8deg);
   }
   100% {
-    transform: translateX(110vw) translateY(41vh) scale(0.8) rotate(-15deg);
+    transform: translateX(110vw) translateY(7vh) scale(0.5) rotate(-11deg);
   }
 }
 .corona-virus-25-location {
-  animation: coronaLocation25 10s linear 24000ms;
+  animation: coronaLocation25 30s linear 24000ms;
 }
 .corona-virus-25-location [class*=eye]::after {
-  animation-delay: 3324ms;
+  animation-delay: 208ms;
 }
 
 @keyframes coronaLocation25 {
   0% {
-    transform: translateX(-10vw) translateY(55vh) scale(0.4) rotate(3deg);
+    transform: translateX(-10vw) translateY(33vh) scale(0.7) rotate(-16deg);
   }
   20% {
-    transform: translateX(20vw) translateY(79vh) scale(0.5) rotate(13deg);
+    transform: translateX(20vw) translateY(17vh) scale(0.4) rotate(6deg);
   }
   40% {
-    transform: translateX(40vw) translateY(64vh) scale(0.4) rotate(8deg);
+    transform: translateX(40vw) translateY(48vh) scale(0.5) rotate(-34deg);
   }
   60% {
-    transform: translateX(60vw) translateY(3vh) scale(0.6) rotate(-22deg);
+    transform: translateX(60vw) translateY(26vh) scale(0.4) rotate(14deg);
   }
   80% {
-    transform: translateX(80vw) translateY(53vh) scale(0.6) rotate(6deg);
+    transform: translateX(80vw) translateY(9vh) scale(0.7) rotate(-38deg);
   }
   100% {
-    transform: translateX(110vw) translateY(70vh) scale(0.6) rotate(-22deg);
+    transform: translateX(110vw) translateY(79vh) scale(0.8) rotate(-18deg);
   }
 }
 .corona-virus-26-location {
-  animation: coronaLocation26 10s linear 24960ms;
+  animation: coronaLocation26 30s linear 24960ms;
 }
 .corona-virus-26-location [class*=eye]::after {
-  animation-delay: 2830ms;
+  animation-delay: 3995ms;
 }
 
 @keyframes coronaLocation26 {
   0% {
-    transform: translateX(-10vw) translateY(64vh) scale(0.4) rotate(14deg);
+    transform: translateX(-10vw) translateY(61vh) scale(0.8) rotate(-26deg);
   }
   20% {
-    transform: translateX(20vw) translateY(17vh) scale(0.5) rotate(41deg);
+    transform: translateX(20vw) translateY(30vh) scale(0.7) rotate(-33deg);
   }
   40% {
-    transform: translateX(40vw) translateY(54vh) scale(0.4) rotate(-34deg);
+    transform: translateX(40vw) translateY(62vh) scale(0.8) rotate(35deg);
   }
   60% {
-    transform: translateX(60vw) translateY(1vh) scale(0.8) rotate(35deg);
+    transform: translateX(60vw) translateY(8vh) scale(0.4) rotate(-44deg);
   }
   80% {
-    transform: translateX(80vw) translateY(56vh) scale(0.7) rotate(45deg);
+    transform: translateX(80vw) translateY(47vh) scale(0.5) rotate(21deg);
   }
   100% {
-    transform: translateX(110vw) translateY(56vh) scale(0.8) rotate(23deg);
+    transform: translateX(110vw) translateY(75vh) scale(0.6) rotate(33deg);
   }
 }
 .corona-virus-27-location {
-  animation: coronaLocation27 10s linear 25920ms;
+  animation: coronaLocation27 30s linear 25920ms;
 }
 .corona-virus-27-location [class*=eye]::after {
-  animation-delay: 3811ms;
+  animation-delay: 120ms;
 }
 
 @keyframes coronaLocation27 {
   0% {
-    transform: translateX(-10vw) translateY(26vh) scale(0.7) rotate(37deg);
+    transform: translateX(-10vw) translateY(53vh) scale(0.8) rotate(-36deg);
   }
   20% {
-    transform: translateX(20vw) translateY(6vh) scale(0.8) rotate(-30deg);
+    transform: translateX(20vw) translateY(75vh) scale(0.7) rotate(-14deg);
   }
   40% {
-    transform: translateX(40vw) translateY(46vh) scale(0.8) rotate(39deg);
+    transform: translateX(40vw) translateY(56vh) scale(0.4) rotate(18deg);
   }
   60% {
-    transform: translateX(60vw) translateY(26vh) scale(0.5) rotate(5deg);
+    transform: translateX(60vw) translateY(40vh) scale(0.7) rotate(2deg);
   }
   80% {
-    transform: translateX(80vw) translateY(76vh) scale(0.6) rotate(23deg);
+    transform: translateX(80vw) translateY(60vh) scale(0.8) rotate(37deg);
   }
   100% {
-    transform: translateX(110vw) translateY(34vh) scale(0.5) rotate(32deg);
+    transform: translateX(110vw) translateY(7vh) scale(0.7) rotate(-28deg);
   }
 }
 .corona-virus-28-location {
-  animation: coronaLocation28 10s linear 26880ms;
+  animation: coronaLocation28 30s linear 26880ms;
 }
 .corona-virus-28-location [class*=eye]::after {
-  animation-delay: 1914ms;
+  animation-delay: 3897ms;
 }
 
 @keyframes coronaLocation28 {
   0% {
-    transform: translateX(-10vw) translateY(31vh) scale(0.8) rotate(5deg);
+    transform: translateX(-10vw) translateY(62vh) scale(0.4) rotate(-6deg);
   }
   20% {
-    transform: translateX(20vw) translateY(72vh) scale(0.6) rotate(3deg);
+    transform: translateX(20vw) translateY(23vh) scale(0.4) rotate(15deg);
   }
   40% {
-    transform: translateX(40vw) translateY(14vh) scale(0.6) rotate(28deg);
+    transform: translateX(40vw) translateY(40vh) scale(0.4) rotate(43deg);
   }
   60% {
-    transform: translateX(60vw) translateY(14vh) scale(0.5) rotate(34deg);
+    transform: translateX(60vw) translateY(72vh) scale(0.5) rotate(29deg);
   }
   80% {
-    transform: translateX(80vw) translateY(77vh) scale(0.8) rotate(-7deg);
+    transform: translateX(80vw) translateY(36vh) scale(0.6) rotate(1deg);
   }
   100% {
-    transform: translateX(110vw) translateY(44vh) scale(0.6) rotate(35deg);
+    transform: translateX(110vw) translateY(39vh) scale(0.6) rotate(20deg);
   }
 }
 .corona-virus-29-location {
-  animation: coronaLocation29 10s linear 27840ms;
+  animation: coronaLocation29 30s linear 27840ms;
 }
 .corona-virus-29-location [class*=eye]::after {
-  animation-delay: 1639ms;
+  animation-delay: 646ms;
 }
 
 @keyframes coronaLocation29 {
   0% {
-    transform: translateX(-10vw) translateY(79vh) scale(0.7) rotate(23deg);
+    transform: translateX(-10vw) translateY(12vh) scale(0.7) rotate(-34deg);
   }
   20% {
-    transform: translateX(20vw) translateY(27vh) scale(0.5) rotate(23deg);
+    transform: translateX(20vw) translateY(5vh) scale(0.5) rotate(22deg);
   }
   40% {
-    transform: translateX(40vw) translateY(28vh) scale(0.8) rotate(39deg);
+    transform: translateX(40vw) translateY(75vh) scale(0.5) rotate(-27deg);
   }
   60% {
-    transform: translateX(60vw) translateY(43vh) scale(0.4) rotate(39deg);
+    transform: translateX(60vw) translateY(79vh) scale(0.8) rotate(19deg);
   }
   80% {
-    transform: translateX(80vw) translateY(51vh) scale(0.6) rotate(-31deg);
+    transform: translateX(80vw) translateY(46vh) scale(0.8) rotate(-29deg);
   }
   100% {
-    transform: translateX(110vw) translateY(74vh) scale(0.4) rotate(35deg);
+    transform: translateX(110vw) translateY(77vh) scale(0.7) rotate(11deg);
   }
 }
 .corona-virus-30-location {
-  animation: coronaLocation30 10s linear 28800ms;
+  animation: coronaLocation30 30s linear 28800ms;
 }
 .corona-virus-30-location [class*=eye]::after {
-  animation-delay: 3860ms;
+  animation-delay: 1930ms;
 }
 
 @keyframes coronaLocation30 {
   0% {
-    transform: translateX(-10vw) translateY(34vh) scale(0.6) rotate(-34deg);
+    transform: translateX(-10vw) translateY(29vh) scale(0.8) rotate(-5deg);
   }
   20% {
-    transform: translateX(20vw) translateY(1vh) scale(0.8) rotate(-25deg);
+    transform: translateX(20vw) translateY(14vh) scale(0.5) rotate(3deg);
   }
   40% {
-    transform: translateX(40vw) translateY(62vh) scale(0.8) rotate(8deg);
+    transform: translateX(40vw) translateY(56vh) scale(0.7) rotate(-15deg);
   }
   60% {
-    transform: translateX(60vw) translateY(38vh) scale(0.4) rotate(-2deg);
+    transform: translateX(60vw) translateY(78vh) scale(0.5) rotate(21deg);
   }
   80% {
-    transform: translateX(80vw) translateY(9vh) scale(0.5) rotate(-32deg);
+    transform: translateX(80vw) translateY(57vh) scale(0.6) rotate(-26deg);
   }
   100% {
-    transform: translateX(110vw) translateY(61vh) scale(0.5) rotate(-39deg);
+    transform: translateX(110vw) translateY(78vh) scale(0.7) rotate(3deg);
   }
 }
 .corona-virus-31-location {
-  animation: coronaLocation31 10s linear 29760ms;
+  animation: coronaLocation31 30s linear 29760ms;
 }
 .corona-virus-31-location [class*=eye]::after {
-  animation-delay: 6ms;
+  animation-delay: 2640ms;
 }
 
 @keyframes coronaLocation31 {
   0% {
-    transform: translateX(-10vw) translateY(52vh) scale(0.5) rotate(40deg);
+    transform: translateX(-10vw) translateY(79vh) scale(0.6) rotate(6deg);
   }
   20% {
-    transform: translateX(20vw) translateY(64vh) scale(0.7) rotate(2deg);
+    transform: translateX(20vw) translateY(73vh) scale(0.4) rotate(23deg);
   }
   40% {
-    transform: translateX(40vw) translateY(39vh) scale(0.8) rotate(13deg);
+    transform: translateX(40vw) translateY(15vh) scale(0.5) rotate(15deg);
   }
   60% {
-    transform: translateX(60vw) translateY(66vh) scale(0.5) rotate(2deg);
+    transform: translateX(60vw) translateY(21vh) scale(0.7) rotate(8deg);
   }
   80% {
-    transform: translateX(80vw) translateY(23vh) scale(0.4) rotate(-42deg);
+    transform: translateX(80vw) translateY(30vh) scale(0.7) rotate(22deg);
   }
   100% {
-    transform: translateX(110vw) translateY(34vh) scale(0.5) rotate(-5deg);
+    transform: translateX(110vw) translateY(40vh) scale(0.8) rotate(26deg);
   }
 }
 .corona-virus-32-location {
-  animation: coronaLocation32 10s linear 30720ms;
+  animation: coronaLocation32 30s linear 30720ms;
 }
 .corona-virus-32-location [class*=eye]::after {
-  animation-delay: 1595ms;
+  animation-delay: 3657ms;
 }
 
 @keyframes coronaLocation32 {
   0% {
-    transform: translateX(-10vw) translateY(32vh) scale(0.7) rotate(19deg);
+    transform: translateX(-10vw) translateY(5vh) scale(0.7) rotate(4deg);
   }
   20% {
-    transform: translateX(20vw) translateY(13vh) scale(0.6) rotate(-31deg);
+    transform: translateX(20vw) translateY(68vh) scale(0.6) rotate(39deg);
   }
   40% {
-    transform: translateX(40vw) translateY(9vh) scale(0.6) rotate(-4deg);
+    transform: translateX(40vw) translateY(25vh) scale(0.7) rotate(-35deg);
   }
   60% {
-    transform: translateX(60vw) translateY(49vh) scale(0.8) rotate(-3deg);
+    transform: translateX(60vw) translateY(21vh) scale(0.7) rotate(37deg);
   }
   80% {
-    transform: translateX(80vw) translateY(9vh) scale(0.5) rotate(-39deg);
+    transform: translateX(80vw) translateY(72vh) scale(0.6) rotate(-12deg);
   }
   100% {
-    transform: translateX(110vw) translateY(57vh) scale(0.5) rotate(-13deg);
+    transform: translateX(110vw) translateY(10vh) scale(0.6) rotate(-13deg);
   }
 }
 .corona-virus-33-location {
-  animation: coronaLocation33 10s linear 31680ms;
+  animation: coronaLocation33 30s linear 31680ms;
 }
 .corona-virus-33-location [class*=eye]::after {
-  animation-delay: 873ms;
+  animation-delay: 178ms;
 }
 
 @keyframes coronaLocation33 {
   0% {
-    transform: translateX(-10vw) translateY(40vh) scale(0.4) rotate(37deg);
+    transform: translateX(-10vw) translateY(40vh) scale(0.5) rotate(-22deg);
   }
   20% {
-    transform: translateX(20vw) translateY(71vh) scale(0.8) rotate(6deg);
+    transform: translateX(20vw) translateY(72vh) scale(0.7) rotate(-43deg);
   }
   40% {
-    transform: translateX(40vw) translateY(53vh) scale(0.6) rotate(-35deg);
+    transform: translateX(40vw) translateY(36vh) scale(0.7) rotate(13deg);
   }
   60% {
-    transform: translateX(60vw) translateY(42vh) scale(0.4) rotate(-12deg);
+    transform: translateX(60vw) translateY(30vh) scale(0.5) rotate(-36deg);
   }
   80% {
-    transform: translateX(80vw) translateY(34vh) scale(0.6) rotate(2deg);
+    transform: translateX(80vw) translateY(37vh) scale(0.4) rotate(-9deg);
   }
   100% {
-    transform: translateX(110vw) translateY(63vh) scale(0.8) rotate(37deg);
+    transform: translateX(110vw) translateY(53vh) scale(0.8) rotate(7deg);
   }
 }
 .corona-virus-34-location {
-  animation: coronaLocation34 10s linear 32640ms;
+  animation: coronaLocation34 30s linear 32640ms;
 }
 .corona-virus-34-location [class*=eye]::after {
-  animation-delay: 960ms;
+  animation-delay: 882ms;
 }
 
 @keyframes coronaLocation34 {
   0% {
-    transform: translateX(-10vw) translateY(36vh) scale(0.7) rotate(-17deg);
+    transform: translateX(-10vw) translateY(76vh) scale(0.7) rotate(36deg);
   }
   20% {
-    transform: translateX(20vw) translateY(60vh) scale(0.5) rotate(-40deg);
+    transform: translateX(20vw) translateY(71vh) scale(0.6) rotate(-24deg);
   }
   40% {
-    transform: translateX(40vw) translateY(65vh) scale(0.5) rotate(24deg);
+    transform: translateX(40vw) translateY(15vh) scale(0.5) rotate(27deg);
   }
   60% {
-    transform: translateX(60vw) translateY(42vh) scale(0.7) rotate(-40deg);
+    transform: translateX(60vw) translateY(65vh) scale(0.8) rotate(-17deg);
   }
   80% {
-    transform: translateX(80vw) translateY(5vh) scale(0.8) rotate(37deg);
+    transform: translateX(80vw) translateY(75vh) scale(0.7) rotate(-43deg);
   }
   100% {
-    transform: translateX(110vw) translateY(31vh) scale(0.8) rotate(-8deg);
+    transform: translateX(110vw) translateY(10vh) scale(0.5) rotate(-39deg);
   }
 }
 .corona-virus-35-location {
-  animation: coronaLocation35 10s linear 33600ms;
+  animation: coronaLocation35 30s linear 33600ms;
 }
 .corona-virus-35-location [class*=eye]::after {
-  animation-delay: 2534ms;
+  animation-delay: 1922ms;
 }
 
 @keyframes coronaLocation35 {
   0% {
-    transform: translateX(-10vw) translateY(68vh) scale(0.5) rotate(-20deg);
+    transform: translateX(-10vw) translateY(6vh) scale(0.7) rotate(-36deg);
   }
   20% {
-    transform: translateX(20vw) translateY(80vh) scale(0.5) rotate(23deg);
+    transform: translateX(20vw) translateY(17vh) scale(0.7) rotate(-26deg);
   }
   40% {
-    transform: translateX(40vw) translateY(74vh) scale(0.5) rotate(35deg);
+    transform: translateX(40vw) translateY(28vh) scale(0.7) rotate(9deg);
   }
   60% {
-    transform: translateX(60vw) translateY(65vh) scale(0.8) rotate(-29deg);
+    transform: translateX(60vw) translateY(26vh) scale(0.4) rotate(-4deg);
   }
   80% {
-    transform: translateX(80vw) translateY(5vh) scale(0.8) rotate(45deg);
+    transform: translateX(80vw) translateY(22vh) scale(0.5) rotate(18deg);
   }
   100% {
-    transform: translateX(110vw) translateY(1vh) scale(0.8) rotate(38deg);
+    transform: translateX(110vw) translateY(69vh) scale(0.4) rotate(8deg);
   }
 }
 .corona-virus-36-location {
-  animation: coronaLocation36 10s linear 34560ms;
+  animation: coronaLocation36 30s linear 34560ms;
 }
 .corona-virus-36-location [class*=eye]::after {
-  animation-delay: 676ms;
+  animation-delay: 1386ms;
 }
 
 @keyframes coronaLocation36 {
   0% {
-    transform: translateX(-10vw) translateY(3vh) scale(0.5) rotate(17deg);
+    transform: translateX(-10vw) translateY(22vh) scale(0.7) rotate(45deg);
   }
   20% {
-    transform: translateX(20vw) translateY(35vh) scale(0.5) rotate(-15deg);
+    transform: translateX(20vw) translateY(57vh) scale(0.5) rotate(-30deg);
   }
   40% {
-    transform: translateX(40vw) translateY(65vh) scale(0.8) rotate(37deg);
+    transform: translateX(40vw) translateY(69vh) scale(0.6) rotate(-9deg);
   }
   60% {
-    transform: translateX(60vw) translateY(61vh) scale(0.7) rotate(15deg);
+    transform: translateX(60vw) translateY(18vh) scale(0.7) rotate(-11deg);
   }
   80% {
-    transform: translateX(80vw) translateY(10vh) scale(0.6) rotate(37deg);
+    transform: translateX(80vw) translateY(15vh) scale(0.8) rotate(-2deg);
   }
   100% {
-    transform: translateX(110vw) translateY(31vh) scale(0.4) rotate(-30deg);
+    transform: translateX(110vw) translateY(16vh) scale(0.5) rotate(-1deg);
   }
 }
 .corona-virus-37-location {
-  animation: coronaLocation37 10s linear 35520ms;
+  animation: coronaLocation37 30s linear 35520ms;
 }
 .corona-virus-37-location [class*=eye]::after {
-  animation-delay: 195ms;
+  animation-delay: 3777ms;
 }
 
 @keyframes coronaLocation37 {
   0% {
-    transform: translateX(-10vw) translateY(58vh) scale(0.8) rotate(43deg);
+    transform: translateX(-10vw) translateY(33vh) scale(0.5) rotate(9deg);
   }
   20% {
-    transform: translateX(20vw) translateY(10vh) scale(0.5) rotate(24deg);
+    transform: translateX(20vw) translateY(75vh) scale(0.7) rotate(-30deg);
   }
   40% {
-    transform: translateX(40vw) translateY(23vh) scale(0.4) rotate(29deg);
+    transform: translateX(40vw) translateY(29vh) scale(0.8) rotate(25deg);
   }
   60% {
-    transform: translateX(60vw) translateY(25vh) scale(0.7) rotate(26deg);
+    transform: translateX(60vw) translateY(51vh) scale(0.8) rotate(36deg);
   }
   80% {
-    transform: translateX(80vw) translateY(9vh) scale(0.4) rotate(32deg);
+    transform: translateX(80vw) translateY(27vh) scale(0.8) rotate(12deg);
   }
   100% {
-    transform: translateX(110vw) translateY(38vh) scale(0.6) rotate(44deg);
+    transform: translateX(110vw) translateY(7vh) scale(0.5) rotate(18deg);
   }
 }
 .corona-virus-38-location {
-  animation: coronaLocation38 10s linear 36480ms;
+  animation: coronaLocation38 30s linear 36480ms;
 }
 .corona-virus-38-location [class*=eye]::after {
-  animation-delay: 1764ms;
+  animation-delay: 838ms;
 }
 
 @keyframes coronaLocation38 {
   0% {
-    transform: translateX(-10vw) translateY(54vh) scale(0.8) rotate(-29deg);
+    transform: translateX(-10vw) translateY(71vh) scale(0.6) rotate(12deg);
   }
   20% {
-    transform: translateX(20vw) translateY(15vh) scale(0.5) rotate(-15deg);
+    transform: translateX(20vw) translateY(28vh) scale(0.6) rotate(9deg);
   }
   40% {
-    transform: translateX(40vw) translateY(60vh) scale(0.8) rotate(-26deg);
+    transform: translateX(40vw) translateY(49vh) scale(0.4) rotate(-23deg);
   }
   60% {
-    transform: translateX(60vw) translateY(21vh) scale(0.7) rotate(-13deg);
+    transform: translateX(60vw) translateY(39vh) scale(0.5) rotate(32deg);
   }
   80% {
-    transform: translateX(80vw) translateY(40vh) scale(0.7) rotate(-13deg);
+    transform: translateX(80vw) translateY(32vh) scale(0.8) rotate(-12deg);
   }
   100% {
-    transform: translateX(110vw) translateY(24vh) scale(0.5) rotate(-8deg);
+    transform: translateX(110vw) translateY(29vh) scale(0.4) rotate(30deg);
   }
 }
 .corona-virus-39-location {
-  animation: coronaLocation39 10s linear 37440ms;
+  animation: coronaLocation39 30s linear 37440ms;
 }
 .corona-virus-39-location [class*=eye]::after {
-  animation-delay: 483ms;
+  animation-delay: 355ms;
 }
 
 @keyframes coronaLocation39 {
   0% {
-    transform: translateX(-10vw) translateY(17vh) scale(0.8) rotate(-16deg);
+    transform: translateX(-10vw) translateY(12vh) scale(0.6) rotate(-5deg);
   }
   20% {
-    transform: translateX(20vw) translateY(12vh) scale(0.4) rotate(-15deg);
+    transform: translateX(20vw) translateY(52vh) scale(0.8) rotate(-2deg);
   }
   40% {
-    transform: translateX(40vw) translateY(47vh) scale(0.5) rotate(35deg);
+    transform: translateX(40vw) translateY(62vh) scale(0.7) rotate(38deg);
   }
   60% {
-    transform: translateX(60vw) translateY(57vh) scale(0.7) rotate(4deg);
+    transform: translateX(60vw) translateY(15vh) scale(0.6) rotate(35deg);
   }
   80% {
-    transform: translateX(80vw) translateY(46vh) scale(0.7) rotate(4deg);
+    transform: translateX(80vw) translateY(23vh) scale(0.4) rotate(-12deg);
   }
   100% {
-    transform: translateX(110vw) translateY(3vh) scale(0.7) rotate(-2deg);
+    transform: translateX(110vw) translateY(34vh) scale(0.5) rotate(-26deg);
   }
 }
 .corona-virus-40-location {
-  animation: coronaLocation40 10s linear 38400ms;
+  animation: coronaLocation40 30s linear 38400ms;
 }
 .corona-virus-40-location [class*=eye]::after {
-  animation-delay: 3946ms;
+  animation-delay: 671ms;
 }
 
 @keyframes coronaLocation40 {
   0% {
-    transform: translateX(-10vw) translateY(76vh) scale(0.8) rotate(5deg);
+    transform: translateX(-10vw) translateY(65vh) scale(0.7) rotate(-33deg);
   }
   20% {
-    transform: translateX(20vw) translateY(10vh) scale(0.4) rotate(-38deg);
+    transform: translateX(20vw) translateY(78vh) scale(0.4) rotate(4deg);
   }
   40% {
-    transform: translateX(40vw) translateY(31vh) scale(0.8) rotate(-42deg);
+    transform: translateX(40vw) translateY(55vh) scale(0.5) rotate(37deg);
   }
   60% {
-    transform: translateX(60vw) translateY(24vh) scale(0.7) rotate(11deg);
+    transform: translateX(60vw) translateY(6vh) scale(0.8) rotate(26deg);
   }
   80% {
-    transform: translateX(80vw) translateY(43vh) scale(0.7) rotate(24deg);
+    transform: translateX(80vw) translateY(48vh) scale(0.8) rotate(6deg);
   }
   100% {
-    transform: translateX(110vw) translateY(73vh) scale(0.6) rotate(-27deg);
+    transform: translateX(110vw) translateY(12vh) scale(0.4) rotate(-30deg);
   }
 }
 .corona-virus-41-location {
-  animation: coronaLocation41 10s linear 39360ms;
+  animation: coronaLocation41 30s linear 39360ms;
 }
 .corona-virus-41-location [class*=eye]::after {
-  animation-delay: 1537ms;
+  animation-delay: 532ms;
 }
 
 @keyframes coronaLocation41 {
   0% {
-    transform: translateX(-10vw) translateY(76vh) scale(0.5) rotate(-34deg);
+    transform: translateX(-10vw) translateY(80vh) scale(0.7) rotate(26deg);
   }
   20% {
-    transform: translateX(20vw) translateY(9vh) scale(0.4) rotate(-17deg);
+    transform: translateX(20vw) translateY(79vh) scale(0.5) rotate(-37deg);
   }
   40% {
-    transform: translateX(40vw) translateY(65vh) scale(0.5) rotate(-43deg);
+    transform: translateX(40vw) translateY(73vh) scale(0.4) rotate(-42deg);
   }
   60% {
-    transform: translateX(60vw) translateY(49vh) scale(0.4) rotate(-5deg);
+    transform: translateX(60vw) translateY(52vh) scale(0.7) rotate(18deg);
   }
   80% {
-    transform: translateX(80vw) translateY(57vh) scale(0.8) rotate(-35deg);
+    transform: translateX(80vw) translateY(54vh) scale(0.7) rotate(-31deg);
   }
   100% {
-    transform: translateX(110vw) translateY(42vh) scale(0.8) rotate(29deg);
+    transform: translateX(110vw) translateY(32vh) scale(0.4) rotate(-8deg);
   }
 }
 .corona-virus-42-location {
-  animation: coronaLocation42 10s linear 40320ms;
+  animation: coronaLocation42 30s linear 40320ms;
 }
 .corona-virus-42-location [class*=eye]::after {
-  animation-delay: 1472ms;
+  animation-delay: 2771ms;
 }
 
 @keyframes coronaLocation42 {
   0% {
-    transform: translateX(-10vw) translateY(36vh) scale(0.8) rotate(-18deg);
+    transform: translateX(-10vw) translateY(71vh) scale(0.8) rotate(-37deg);
   }
   20% {
-    transform: translateX(20vw) translateY(80vh) scale(0.5) rotate(42deg);
+    transform: translateX(20vw) translateY(41vh) scale(0.7) rotate(23deg);
   }
   40% {
-    transform: translateX(40vw) translateY(39vh) scale(0.8) rotate(42deg);
+    transform: translateX(40vw) translateY(64vh) scale(0.5) rotate(-15deg);
   }
   60% {
-    transform: translateX(60vw) translateY(57vh) scale(0.8) rotate(-6deg);
+    transform: translateX(60vw) translateY(42vh) scale(0.8) rotate(-11deg);
   }
   80% {
-    transform: translateX(80vw) translateY(52vh) scale(0.7) rotate(-11deg);
+    transform: translateX(80vw) translateY(22vh) scale(0.7) rotate(16deg);
   }
   100% {
-    transform: translateX(110vw) translateY(19vh) scale(0.7) rotate(-11deg);
+    transform: translateX(110vw) translateY(23vh) scale(0.4) rotate(-19deg);
   }
 }
 .corona-virus-43-location {
-  animation: coronaLocation43 10s linear 41280ms;
+  animation: coronaLocation43 30s linear 41280ms;
 }
 .corona-virus-43-location [class*=eye]::after {
-  animation-delay: 2712ms;
+  animation-delay: 767ms;
 }
 
 @keyframes coronaLocation43 {
   0% {
-    transform: translateX(-10vw) translateY(34vh) scale(0.5) rotate(-32deg);
+    transform: translateX(-10vw) translateY(62vh) scale(0.7) rotate(-14deg);
   }
   20% {
-    transform: translateX(20vw) translateY(19vh) scale(0.4) rotate(4deg);
+    transform: translateX(20vw) translateY(23vh) scale(0.8) rotate(38deg);
   }
   40% {
-    transform: translateX(40vw) translateY(42vh) scale(0.5) rotate(42deg);
+    transform: translateX(40vw) translateY(76vh) scale(0.5) rotate(31deg);
   }
   60% {
-    transform: translateX(60vw) translateY(4vh) scale(0.5) rotate(42deg);
+    transform: translateX(60vw) translateY(36vh) scale(0.4) rotate(-43deg);
   }
   80% {
-    transform: translateX(80vw) translateY(28vh) scale(0.6) rotate(-31deg);
+    transform: translateX(80vw) translateY(8vh) scale(0.8) rotate(15deg);
   }
   100% {
-    transform: translateX(110vw) translateY(21vh) scale(0.6) rotate(9deg);
+    transform: translateX(110vw) translateY(21vh) scale(0.8) rotate(-43deg);
   }
 }
 .corona-virus-44-location {
-  animation: coronaLocation44 10s linear 42240ms;
+  animation: coronaLocation44 30s linear 42240ms;
 }
 .corona-virus-44-location [class*=eye]::after {
-  animation-delay: 1034ms;
+  animation-delay: 3352ms;
 }
 
 @keyframes coronaLocation44 {
   0% {
-    transform: translateX(-10vw) translateY(40vh) scale(0.5) rotate(33deg);
+    transform: translateX(-10vw) translateY(2vh) scale(0.8) rotate(13deg);
   }
   20% {
-    transform: translateX(20vw) translateY(69vh) scale(0.6) rotate(40deg);
+    transform: translateX(20vw) translateY(42vh) scale(0.5) rotate(23deg);
   }
   40% {
-    transform: translateX(40vw) translateY(12vh) scale(0.5) rotate(-29deg);
+    transform: translateX(40vw) translateY(60vh) scale(0.8) rotate(42deg);
   }
   60% {
-    transform: translateX(60vw) translateY(72vh) scale(0.8) rotate(-6deg);
+    transform: translateX(60vw) translateY(73vh) scale(0.4) rotate(-6deg);
   }
   80% {
-    transform: translateX(80vw) translateY(53vh) scale(0.7) rotate(-8deg);
+    transform: translateX(80vw) translateY(57vh) scale(0.4) rotate(-2deg);
   }
   100% {
-    transform: translateX(110vw) translateY(2vh) scale(0.7) rotate(-20deg);
+    transform: translateX(110vw) translateY(36vh) scale(0.4) rotate(10deg);
   }
 }
 .corona-virus-45-location {
-  animation: coronaLocation45 10s linear 43200ms;
+  animation: coronaLocation45 30s linear 43200ms;
 }
 .corona-virus-45-location [class*=eye]::after {
-  animation-delay: 1469ms;
+  animation-delay: 2142ms;
 }
 
 @keyframes coronaLocation45 {
   0% {
-    transform: translateX(-10vw) translateY(51vh) scale(0.7) rotate(41deg);
+    transform: translateX(-10vw) translateY(67vh) scale(0.5) rotate(1deg);
   }
   20% {
-    transform: translateX(20vw) translateY(18vh) scale(0.5) rotate(42deg);
+    transform: translateX(20vw) translateY(63vh) scale(0.4) rotate(-31deg);
   }
   40% {
-    transform: translateX(40vw) translateY(60vh) scale(0.4) rotate(-4deg);
+    transform: translateX(40vw) translateY(19vh) scale(0.7) rotate(24deg);
   }
   60% {
-    transform: translateX(60vw) translateY(72vh) scale(0.7) rotate(-10deg);
+    transform: translateX(60vw) translateY(77vh) scale(0.8) rotate(-1deg);
   }
   80% {
-    transform: translateX(80vw) translateY(36vh) scale(0.6) rotate(40deg);
+    transform: translateX(80vw) translateY(30vh) scale(0.7) rotate(13deg);
   }
   100% {
-    transform: translateX(110vw) translateY(3vh) scale(0.7) rotate(39deg);
+    transform: translateX(110vw) translateY(11vh) scale(0.5) rotate(25deg);
   }
 }
 /*** hairs ***/
