@@ -1,4 +1,4 @@
-const target = 2;
+const target = 30;
 let clickedElements = [];
 
 document.addEventListener("DOMContentLoaded", () => {
