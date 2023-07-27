@@ -135,10 +135,10 @@ body {
   // animation: curtain 0.6s ease-in $amountOfVirus * 1s forwards;
   animation: curtain 0.6s ease-in 40s forwards;
 }
-.popup {
+.win-popup {
   display: none;
   position: fixed;
-  z-index: 20;
+  z-index: 30;
   top: 30px;
   left: 0;
   right: 0;
@@ -147,7 +147,9 @@ body {
   overflow: hidden;
   box-sizing: content-box;
   padding-top: 100px;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(bg.png);
+  background-size: cover;
+  // background-color: rgba(0, 0, 0);
   // .close-button {
   //   position: absolute;
   //   right: 0;
