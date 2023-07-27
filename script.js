@@ -1,13 +1,14 @@
-const target = 1;
+const target = 2;
 let clickedElements = [];
 
 const popupElement = document.querySelector(".win-popup");
 const gameOverElement = document.querySelector(".game-over");
 const closePopupButton = document.querySelector(".win-popup .game-nav-button");
+const resetButton = document.querySelector(".game-over input[type=reset]");
 
 const infectedElementsList = document.querySelectorAll(".body:not(.obstacle)");
 infectedElementsList.forEach(function (element) {
-  element.addEventListener("click", function () {
+  element.parentElement.addEventListener("click", function () {
     if (clickedElements.find((elem) => elem == element)) {
       return;
     }
@@ -20,5 +21,9 @@ infectedElementsList.forEach(function (element) {
 
 closePopupButton.addEventListener("click", function () {
   popupElement.style.display = "none";
+  clickedElements = [];
 });
 
+resetButton.addEventListener("click", function () {
+  clickedElements = [];
+});
